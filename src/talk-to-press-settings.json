@@ -1,0 +1,13 @@
+{
+    "volume_threshold": 700,
+    "ptt_keys_str": "shift + t",
+    "allowed_window_fragments": "squad, company",
+    "post_voice_release_delay": 800,
+    "microphone_index": 0,
+    "ignore_keys_enabled": false,
+    "ignore_keys_str": "v + b",
+    "fade_sound_enabled": false,
+    "fade_sound_percentage": 90,
+    "mute_all_enabled": false,
+    "mute_key": "shift + M"
+}
